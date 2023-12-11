@@ -1,0 +1,11 @@
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\bin\Debug\OS_work.exe.config
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\bin\Debug\OS_work.exe
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\bin\Debug\OS_work.pdb
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.csproj.AssemblyReference.cache
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.csproj.SuggestedBindingRedirects.cache
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.Form1.resources
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.Properties.Resources.resources
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.csproj.GenerateResource.cache
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.csproj.CoreCompileInputs.cache
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.exe
+C:\Users\yuhengchen\Desktop\OS_homework\OS_work\OS_work\obj\Debug\OS_work.pdb
