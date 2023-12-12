@@ -154,7 +154,7 @@ namespace OS_work
         public void add()
         {
           //f = false;
-            for (int i = 0; i < 10010; i++) idst[i] = false;
+            
 
             int newid = get_num(1, 100000);
             newid %= 10007;
@@ -264,6 +264,7 @@ namespace OS_work
 
         private void button3_Click(object sender, EventArgs e)
         {
+            for (int i = 0; i < 10010; i++) idst[i] = false;
             f = true;
             //int cnt = 0;
             while (f)
@@ -283,6 +284,11 @@ namespace OS_work
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
         {
 
         }
