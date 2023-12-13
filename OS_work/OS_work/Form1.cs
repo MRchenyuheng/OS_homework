@@ -266,16 +266,22 @@ namespace OS_work
         {
             for (int i = 0; i < 10010; i++) idst[i] = false;
             f = true;
-            //int cnt = 0;
+            int cnt = 0;
+
             while (f)
             {
-                //cnt++;
-                //cnt %= 6;
-                //if (cnt == 0) add();
+                cnt++;
+                cnt %= 6;
+                if (cnt == 0)
+                {
+                    add();
+                    Thread.Sleep(1000);
+                    Application.DoEvents();
+                }
               //  add();
 
                 process();
-                Thread.Sleep(1500);
+                Thread.Sleep(1000);
                Application.DoEvents();
 
             }
